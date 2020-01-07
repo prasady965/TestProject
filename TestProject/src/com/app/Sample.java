@@ -6,5 +6,6 @@ public class Sample {
 		System.out.println("Haii");
 		System.out.println("Haii1");
 		System.out.println("Haii1");
+		System.out.println("Haii3");
     }
 }
